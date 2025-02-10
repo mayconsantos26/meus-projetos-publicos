@@ -37,7 +37,7 @@ PostgreSQL (ou adapte para outro banco no appsettings.json)
 Visual Studio ou VS Code
 
 2️- Clonar o repositório:
-git clone https://github.com/https://github.com/mayconsantos26/SANTOSCASH.git
+git clone https://github.com/mayconsantos26/meus-projetos-publicos.git
 cd SANTOSCASH
  
 3️- Configurar o banco de dados:
